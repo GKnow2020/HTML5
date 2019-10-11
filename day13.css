@@ -1,0 +1,13 @@
+.myClass{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: cyan;
+}
+
+#myId{
+    background: green;
+    padding: 5px;
+    text-align: center;
+}
